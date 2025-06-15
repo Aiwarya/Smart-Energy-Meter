@@ -9,6 +9,6 @@ This project implements an XGBoost regression model for energy prediction using 
 
 ## Link to Colab notebook:
 Notebook is available in this repository.
-Smartenrgy meter_model1 : Random Forest & XGBoost Regeressor models
-Smartenrgy meter_model2 : Decision Tree model
+-Smartenrgy meter_model1 : Random Forest & XGBoost Regeressor models
+-Smartenrgy meter_model2 : Decision Tree model
 
